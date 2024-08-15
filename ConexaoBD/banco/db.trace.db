@@ -1,0 +1,68 @@
+2023-08-12 15:21:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO funcionarios ([*]'Clara Almeida', '45678', 'clara.almeida@fiap.com.br')"; expected "identifier"; SQL statement:
+INSERT INTO funcionarios ('Clara Almeida', '45678', 'clara.almeida@fiap.com.br') [42001-220]
+2023-08-12 15:22:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Cannot parse "DATE" constant "clara.almeida@fiap.com.br"; SQL statement:
+INSERT INTO funcionarios (nome, cracha, data_nascimento) VALUES ('Clara Almeida', '45678', 'clara.almeida@fiap.com.br') [22007-220]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:518)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.value.ValueDate.parse(ValueDate.java:53)
+	at org.h2.value.Value.convertToDate(Value.java:1875)
+	at org.h2.value.Value.convertTo(Value.java:1168)
+	at org.h2.value.Value.convertForAssignTo(Value.java:1113)
+	at org.h2.table.Column.validateConvertUpdateSequence(Column.java:369)
+	at org.h2.table.Table.convertInsertRow(Table.java:936)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:167)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at org.h2.server.web.WebApp.getResult(WebApp.java:1345)
+	at org.h2.server.web.WebApp.query(WebApp.java:1143)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1109)
+	at org.h2.server.web.WebApp$1.next(WebApp.java:1096)
+	at org.h2.server.web.WebThread.process(WebThread.java:188)
+	at org.h2.server.web.WebThread.run(WebThread.java:101)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.NumberFormatException: For input string: "clara.almeida@fiap.co"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at org.h2.util.DateTimeUtils.parseDateValue(DateTimeUtils.java:190)
+	at org.h2.value.ValueDate.parse(ValueDate.java:51)
+	... 19 more
+2023-08-12 15:56:40 database: flush
+org.h2.message.DbException: General error: "org.h2.mvstore.MVStoreException: The file is locked: /Users/rodrigovieirapinto/BACKUP/Rodrigo/Professor/FIAP/aulas/aula25/ConexaoBD/banco/db.mv.db [2.2.220/7]" [50000-220]
+	at org.h2.message.DbException.get(DbException.java:212)
+	at org.h2.message.DbException.convert(DbException.java:407)
+	at org.h2.mvstore.db.Store.lambda$new$0(Store.java:122)
+	at org.h2.mvstore.MVStore.handleException(MVStore.java:1547)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:371)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:291)
+	at org.h2.mvstore.MVStore$Builder.open(MVStore.java:2036)
+	at org.h2.mvstore.db.Store.<init>(Store.java:133)
+	at org.h2.engine.Database.<init>(Database.java:324)
+	at org.h2.engine.Engine.openSession(Engine.java:92)
+	at org.h2.engine.Engine.openSession(Engine.java:222)
+	at org.h2.engine.Engine.createSession(Engine.java:201)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:338)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:122)
+	at org.h2.Driver.connect(Driver.java:59)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:247)
+	at ConnectionFactory.getConnection(ConnectionFactory.java:13)
+	at TesteDeConexao.main(TesteDeConexao.java:11)
+Caused by: org.h2.jdbc.JdbcSQLNonTransientException: General error: "org.h2.mvstore.MVStoreException: The file is locked: /Users/rodrigovieirapinto/BACKUP/Rodrigo/Professor/FIAP/aulas/aula25/ConexaoBD/banco/db.mv.db [2.2.220/7]" [50000-220]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:566)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:489)
+	... 19 more
+Caused by: org.h2.mvstore.MVStoreException: The file is locked: /Users/rodrigovieirapinto/BACKUP/Rodrigo/Professor/FIAP/aulas/aula25/ConexaoBD/banco/db.mv.db [2.2.220/7]
+	at org.h2.mvstore.DataUtils.newMVStoreException(DataUtils.java:996)
+	at org.h2.mvstore.SingleFileStore.lockFileChannel(SingleFileStore.java:143)
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:117)
+	at org.h2.mvstore.SingleFileStore.open(SingleFileStore.java:81)
+	at org.h2.mvstore.MVStore.<init>(MVStore.java:286)
+	... 13 more
