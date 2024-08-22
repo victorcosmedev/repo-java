@@ -4,59 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c02b0617-8729-4468-b7ca-32e4ee9355d7" name="Changes" comment="" />
+    <list default="true" id="f6260533-16a0-4abc-9698-584a74790916" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api_5_11_0_M2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api_5_11_0_M2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/Autenticador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/Autenticador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/AssistenteRH.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/AssistenteRH.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/AuditorExterno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/AuditorExterno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Estagiario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Estagiario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/FuncionarioAutenticavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/FuncionarioAutenticavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Mecanico.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Mecanico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Operador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FIAPFolha/br/com/fiapfolha/dominio/Operador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/FIAPFolha/br/com/fiapfolha/dominio/AssistenteRHTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/FIAPFolha/br/com/fiapfolha/dominio/AssistenteRHTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/br/com/fiapfolha/dominio/AssistenteRHTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/br/com/fiapfolha/dominio/AssistenteRHTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2kcos2uYyjeUN35P3ersDJO77WI" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AssistenteRHTest.testeCalculoSalarioDezPorCento.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AssistenteRHTest.testeCalculoSalarioSemComissao.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EstagiarioTest.testarSalario.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.MecanicoTest.testarSalario.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/rodrigovieirapinto/BACKUP/Rodrigo/Professor/FIAP/2024/aulas/2semestre/aula23/intellij/FIAPFolha/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="br.com.fiapfolha" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.AssistenteRHTest.igualdadeDeAssistentes">
-    <configuration name="AssistenteRHTest.igualdadeDeAssistentes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AssistenteRHTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FIAPFolha" />
       <extension name="coverage">
         <pattern>
@@ -66,95 +44,18 @@
       </extension>
       <option name="PACKAGE_NAME" value="br.com.fiapfolha.dominio" />
       <option name="MAIN_CLASS_NAME" value="br.com.fiapfolha.dominio.AssistenteRHTest" />
-      <option name="METHOD_NAME" value="igualdadeDeAssistentes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AssistenteRHTest.testeCalculoSalarioDezPorCento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FIAPFolha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.fiapfolha.dominio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.fiapfolha.dominio" />
-      <option name="MAIN_CLASS_NAME" value="br.com.fiapfolha.dominio.AssistenteRHTest" />
-      <option name="METHOD_NAME" value="testeCalculoSalarioDezPorCento" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AssistenteRHTest.testeCalculoSalarioSemComissao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FIAPFolha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.fiapfolha.dominio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.fiapfolha.dominio" />
-      <option name="MAIN_CLASS_NAME" value="br.com.fiapfolha.dominio.AssistenteRHTest" />
-      <option name="METHOD_NAME" value="testeCalculoSalarioSemComissao" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EstagiarioTest.testarSalario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FIAPFolha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.fiapfolha.dominio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.fiapfolha.dominio" />
-      <option name="MAIN_CLASS_NAME" value="br.com.fiapfolha.dominio.EstagiarioTest" />
-      <option name="METHOD_NAME" value="testarSalario" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MecanicoTest.testarSalario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FIAPFolha" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.fiapfolha.dominio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="br.com.fiapfolha.dominio" />
-      <option name="MAIN_CLASS_NAME" value="br.com.fiapfolha.dominio.MecanicoTest" />
-      <option name="METHOD_NAME" value="testarSalario" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AssistenteRHTest.igualdadeDeAssistentes" />
-        <item itemvalue="JUnit.MecanicoTest.testarSalario" />
-        <item itemvalue="JUnit.EstagiarioTest.testarSalario" />
-        <item itemvalue="JUnit.AssistenteRHTest.testeCalculoSalarioSemComissao" />
-        <item itemvalue="JUnit.AssistenteRHTest.testeCalculoSalarioDezPorCento" />
+        <item itemvalue="JUnit.AssistenteRHTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="c02b0617-8729-4468-b7ca-32e4ee9355d7" name="Changes" comment="" />
-      <created>1723592430839</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1723592430839</updated>
-    </task>
     <servers />
   </component>
 </project>
