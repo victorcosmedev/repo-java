@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c3b841a-c497-4540-ac54-d43d74b2d765" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FIAPFolha/.idea/libraries/junit_jupiter_api_5_11_0_M2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIAPFolha/test/br/com/fiapfolha/dominio/AssistenteRHTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIAPFolha/test/br/com/fiapfolha/dominio/EstagiarioTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIAPFolha/test/br/com/fiapfolha/dominio/GerenteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIAPFolha/test/br/com/fiapfolha/dominio/MecanicoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FIAPFolha/test/br/com/fiapfolha/dominio/OperadorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/.idea/libraries/h2_2_3_230.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/BancoDeDados.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/banco/bancoDeDados.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/lib/h2-2.3.230.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/src/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BancoDeDados/src/TesteDeConexao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/.idea/libraries/h2_2_3_230.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/ConexaoBD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/banco/db.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/banco/db.mv.db.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/banco/db.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/lib/h2-2.3.230.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/src/ConnectionFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/src/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/src/FuncionarioDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/src/SistemaDeFuncionarios.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ConexaoBD/src/TesteDeConexao.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2kciVEzhgTrpWlaNN5jf7dwLzIL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculadoraTest.executor": "Run",
+    "Application.Main.executor": "Run",
+    "JUnit.CalculadoraTest.testarASomaDeDoisNumeros.executor": "Run",
+    "JUnit.CalculadoraTest.testarDivisao.executor": "Run",
+    "JUnit.CalculadoraTest.testarMultiplicacao.executor": "Run",
+    "JUnit.CalculadoraTest.testarSubtracao.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/labsfiap/Downloads/calculadora"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CalculadoraTest.testarSubtracao">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.fiap.calculadora.Main" />
+      <module name="calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fiap.calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.testarASomaDeDoisNumeros" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fiap.calculadora.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.fiap.calculadora.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.fiap.calculadora.dominio.CalculadoraTest" />
+      <option name="METHOD_NAME" value="testarASomaDeDoisNumeros" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.testarDivisao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fiap.calculadora.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.fiap.calculadora.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.fiap.calculadora.dominio.CalculadoraTest" />
+      <option name="METHOD_NAME" value="testarDivisao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.testarMultiplicacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fiap.calculadora.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.fiap.calculadora.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.fiap.calculadora.dominio.CalculadoraTest" />
+      <option name="METHOD_NAME" value="testarMultiplicacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraTest.testarSubtracao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculadora" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.fiap.calculadora.dominio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.fiap.calculadora.dominio" />
+      <option name="MAIN_CLASS_NAME" value="br.com.fiap.calculadora.dominio.CalculadoraTest" />
+      <option name="METHOD_NAME" value="testarSubtracao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculadoraTest.testarSubtracao" />
+        <item itemvalue="JUnit.CalculadoraTest.testarDivisao" />
+        <item itemvalue="JUnit.CalculadoraTest.testarMultiplicacao" />
+        <item itemvalue="JUnit.CalculadoraTest.testarASomaDeDoisNumeros" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c3b841a-c497-4540-ac54-d43d74b2d765" name="Changes" comment="" />
+      <created>1723589291784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723589291784</updated>
+    </task>
+    <servers />
+  </component>
+</project>
